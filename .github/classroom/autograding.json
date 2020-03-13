@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Hello",
+      "setup": "javac Hello.java & java Hello",
+      "run": "gradle test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
